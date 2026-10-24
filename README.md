@@ -1,5 +1,48 @@
 # CAN BUS Analyzer
 
+The goal was to replace the obsolete Microchip APGDT002 with a modern tool that supports **CAN-FD**, adds optional **secondary bus** capability, and a clean desktop interface.
+
+
+## Background
+
+The Microchip APGDT002 seems to be a handy tool, but it's long obsolete, limited to classic CAN 2.0, and its official successor is just a sad option to say it in nice words.
+Since I needed a reliable analyzer with CAN-FD support anyway, I decided to build my own.
+
+
+## Features
+
+* **CAN & CAN-FD:** Support for classical CAN (2.0A/B) and CAN Flexible Data-rate.
+* **Dual-Channel (Optional):** Secondary CAN bus interface for monitoring or bridging two networks.
+* **Software App:** The Software is (or will be at some point) a mix between the simple functionality Microchip provided and GUI Layout inspired by PCAN.
+
+
+## Hardware
+
+(TBD / Work in Progress)
+
+
+## Software
+
+(TBD / Work in Progress)
+
+
+## Status
+
+**Work in Progress** — Currently in development (hardware layout / firmware / software). 
+
+
+## License & Usage
+Just to be clear: the code and hardware designs in this repository are not open source.
+They are posted for reference only and are not free to republish, duplicate, or distribute in any form, especially for commercial purposes.
+If you want to use/build this for personal use, you are completely welcome to do so.
+
+
+
+
+
+
+
+
 
 
 ## Getting started
